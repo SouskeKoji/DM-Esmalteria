@@ -117,7 +117,7 @@ main section {
     font-family: "Poppins", sans-serif;
     font-weight: 800px;
     font-style: normal;
-    background: linear-gradient(45deg, #DB7E27, #DBAF27, #DB9828, #DB5E27, #DBC527, #DBB471);
+    background: linear-gradient(45deg, #DB7E27, #DBAF27, #DB9828, #DB5E27, #DBB471);
     background-size: 400% 100%;
     animation: degrade 10s linear infinite alternate;
 
@@ -234,7 +234,7 @@ footer {
 
 span p {
     font-size: 50px;
-    background: linear-gradient(45deg, #DB7E27, #DBAF27, #DB9828, #DB5E27, #DBC527, #DBB471);
+    background: linear-gradient(45deg, #DB7E27, #DBAF27, #DB9828, #DB5E27, #DBB471);
     background-size: 400% 100%;
     animation: degrade 10s linear infinite alternate;
 
